@@ -12,7 +12,7 @@ class Bio extends React.Component {
           marginBottom: rhythm(2.5),
         }}
       >
-        <img
+        {/*<img
           src={prefixLink(profilePic)}
           alt={`author ${config.authorName}`}
           style={{
@@ -22,8 +22,8 @@ class Bio extends React.Component {
             width: rhythm(2),
             height: rhythm(2),
           }}
-        />
-        Written by <strong>{config.authorName}</strong> who lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+        />*/}
+        Things that interest <strong>{config.authorName}</strong> who lives and works in Toronto. 
       </p>
     )
   }

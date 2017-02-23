@@ -1,16 +1,11 @@
 import Typography from 'typography'
-//import Wordpress2016 from 'typography-theme-wordpress-2016'
-
-//const typography = new Typography(Wordpress2016)
 
 const typography = new Typography({
   baseFontSize: '20px',
-  baseLineHeight: 1.666,
-  headerFontFamily: ['droid serif', 'sans-serif'],
-  bodyFontFamily: ['droid sans', 'serif'],
-  // See below for the full list of options.
+  baseLineHeight: 1.85,
+  headerFontFamily: ['open sans', 'sans-serif'],
+  bodyFontFamily: ['pt serif', 'serif'],
 })
-
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== 'production') {

@@ -6,28 +6,36 @@ import { rhythm } from 'utils/typography'
 import { config } from 'config'
 import Bio from 'components/Bio'
 
-import '../css/zenburn.css'
+// import '../css/zenburn.css'
+import '../scss/app.scss'
 
 class MarkdownWrapper extends React.Component {
   render () {
     const { route } = this.props
     const post = route.page.data
 
+    let hero = "";
+    if (post.heroImage !== "") {
+      hero = (
+        <div 
+          className="hero-block"
+          style={{ backgroundImage:`url(${post.heroImage})` }}>
+        </div>
+      )
+    }
+
     return (
       <div className="markdown">
         <Helmet
           title={`${post.title} | ${config.blogTitle}`}
         />
-        <h1 style={{marginTop: 0}}>{post.title}</h1>
+        {hero}
+        <h1 style={{marginTop: 40}}>{post.title}</h1>
+        <h4 style={{fontSize:'14px'}} className="happy">
+          POSTED {moment(post.date).format('D|MM|YYYY')}
+        </h4>
         <div dangerouslySetInnerHTML={{ __html: post.body }} />
-        <em
-          style={{
-            display: 'block',
-            marginBottom: rhythm(2),
-          }}
-        >
-          Posted {moment(post.date).format('MMMM D, YYYY')}
-        </em>
+        
         <hr
           style={{
             marginBottom: rhythm(2),
