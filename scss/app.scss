@@ -1,2 +1,6 @@
+@import './normalize//normalize/import-now';
+@import 'variables';
 @import 'layout';
 @import 'styles';
+
+@include normalize();
