@@ -4,8 +4,14 @@ date: "2015-11-04"
 readNext: "/"
 path: "/open-source-this/"
 heroImage: "./jetpack-octocat-airlock.jpg"
+articleTop: "std-article"
+articleBody: "std-article"
 ---
+
+
+
 ![GIT NINJA!](./gitninja.jpeg)
+
 
 Circa 2015 it's basically impossible (and downright dumb) to write code without the help of open source software. Even if you're a died-in-the-wool Microsoft developer, you are still going to end up using open source software - hell even Microsoft themselves have open-sourced a bucket load of their software in recent days.
 

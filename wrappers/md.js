@@ -2,7 +2,6 @@ import React from 'react'
 import moment from 'moment'
 import Helmet from "react-helmet"
 import ReadNext from '../components/ReadNext'
-import { rhythm } from 'utils/typography'
 import { config } from 'config'
 import Bio from 'components/Bio'
 
@@ -20,6 +19,7 @@ class MarkdownWrapper extends React.Component {
         <div 
           className="hero-block"
           style={{ backgroundImage:`url(${post.heroImage})` }}>
+          
         </div>
       )
     }
@@ -30,15 +30,15 @@ class MarkdownWrapper extends React.Component {
           title={`${post.title} | ${config.blogTitle}`}
         />
         {hero}
-        <h1 style={{marginTop: 40}}>{post.title}</h1>
-        <h4 style={{fontSize:'14px'}} className="happy">
-          POSTED {moment(post.date).format('D|MM|YYYY')}
-        </h4>
-        <div dangerouslySetInnerHTML={{ __html: post.body }} />
+        <div className={`${post.articleTop}`}>
+          <h1>{post.title}</h1>
+          <div className="posted-date">{moment(post.date).format('D|MM|YYYY')}</div>
+        </div>
+        <div className={`${post.articleTop}`} dangerouslySetInnerHTML={{ __html: post.body }}  />
         
         <hr
           style={{
-            marginBottom: rhythm(2),
+            marginBottom: '2em',
           }}
         />
         <ReadNext post={post} pages={route.pages} />

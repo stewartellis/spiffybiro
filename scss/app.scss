@@ -1,6 +1,10 @@
-@import './normalize//normalize/import-now';
+// @import './normalize/normalize/import-now';
+
+// @import '~modularscale-sass/stylesheets/modular-scale';
 @import 'variables';
+@import 'breakpoints'; // mixins\
+@import 'initialize'; // default font from variables
+@import 'type';
 @import 'layout';
 @import 'styles';
 
-@include normalize();

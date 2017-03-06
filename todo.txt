@@ -1,0 +1,10 @@
+1. read up on normalize and configure...
+2. set up modular style
+3. manually link up google fonts as needed
+
+
+
+USED
+reset - http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
+type and vertical rhythm
+https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm

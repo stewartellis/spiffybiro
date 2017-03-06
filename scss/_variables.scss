@@ -1,1 +1,15 @@
-$gutter: 30px;
+// modular scale
+// $ms-base: 1em;
+// $ms-ratio: $golden;
+// fonts
+$sans: 'Noto Sans', sans-serif;
+$serif: 'Noto Serif', serif;
+$mono: 'Inconsolata', monospace;
+//
+$gutter: 1.5rem;
+
+$line-height: 1.75rem;
+$tablet-portrait-line-height: $line-height;
+$tablet-landscape-line-height: $line-height;
+$desktop-line-height: 1.5em;
+$big-desktop-line-height: 1.4em;

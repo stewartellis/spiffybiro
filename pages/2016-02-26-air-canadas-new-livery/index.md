@@ -4,6 +4,8 @@ date: "2016-02-26"
 readNext: "/"
 path: "/air-canadas-new-livery/"
 heroImage: "./jetpack-octocat-airlock.jpg"
+articleTop: "std-article"
+articleBody: "std-article"
 ---
 The airline business is a tough racket
 

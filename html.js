@@ -1,8 +1,6 @@
 import React from 'react'
 import Helmet from "react-helmet"
 import { prefixLink } from 'gatsby-helpers'
-import { GoogleFont, TypographyStyle } from 'react-typography'
-import typography from './utils/typography'
 
 const BUILD_TIME = new Date().getTime()
 
@@ -25,14 +23,11 @@ module.exports = React.createClass({
         <head>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1.0"
-          />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <link href="https://fonts.googleapis.com/css?family=Inconsolata|Noto+Sans:400,700|Noto+Serif:400,700" rel="stylesheet"/>
+          {head.link.toComponent()}
           {head.title.toComponent()}
-          {head.meta.toComponent()}
-          <TypographyStyle typography={typography} />
-          <GoogleFont typography={typography} />
+          {head.meta.toComponent()}          
           {css}
         </head>
         <body>
