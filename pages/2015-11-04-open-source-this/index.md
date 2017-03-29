@@ -1,7 +1,7 @@
 ---
 title: Open Source This
 date: "2015-11-04"
-readNext: "/"
+readNext: "/dave-grohl-at-sxsw-2013/"
 path: "/open-source-this/"
 heroImage: "./jetpack-octocat-airlock.jpg"
 articleTop: "std-article"

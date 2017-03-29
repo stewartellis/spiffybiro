@@ -26,23 +26,20 @@ class MarkdownWrapper extends React.Component {
 
     return (
       <div className="markdown">
-        <Helmet
-          title={`${post.title} | ${config.blogTitle}`}
-        />
+        <Helmet title={`${post.title} | ${config.blogTitle}`} />
         {hero}
         <div className={`${post.articleTop}`}>
           <h1>{post.title}</h1>
-          <div className="posted-date">{moment(post.date).format('D|MM|YYYY')}</div>
+          <div className="posted-date">
+            STEWART ELLIS -  {moment(post.date).format('D/MM/YYYY')}
+          </div>
         </div>
-        <div className={`${post.articleTop}`} dangerouslySetInnerHTML={{ __html: post.body }}  />
+        <div className={`${post.articleBody}`} dangerouslySetInnerHTML={{ __html: post.body }}  />
         
-        <hr
-          style={{
-            marginBottom: '2em',
-          }}
-        />
         <ReadNext post={post} pages={route.pages} />
-        <Bio />
+        
+        {/*<Bio />*/}
+
       </div>
     )
   }

@@ -5,11 +5,13 @@
 $sans: 'Noto Sans', sans-serif;
 $serif: 'Noto Serif', serif;
 $mono: 'Inconsolata', monospace;
+// $display: 'Architects Daughter', cursive;
+$display: 'Barrio', sans-serif;
 //
 $gutter: 1.5rem;
 
 $line-height: 1.75rem;
-$tablet-portrait-line-height: $line-height;
-$tablet-landscape-line-height: $line-height;
-$desktop-line-height: 1.5em;
-$big-desktop-line-height: 1.4em;
+$tablet-portrait-line-height: $line-height * 1.2;
+$tablet-landscape-line-height: $line-height * 1.2;
+$desktop-line-height: $line-height * 1.2;
+$big-desktop-line-height: $line-height;

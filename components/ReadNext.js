@@ -26,7 +26,8 @@ class ReadNext extends React.Component {
       const body = prune(html.replace(/<[^>]*>/g, ''), 200)
 
       return (
-        <div>
+        <div className='readnext-wrap'>
+        <div className='readnext-inner'>
           <h6
             style={{
               
@@ -53,8 +54,9 @@ class ReadNext extends React.Component {
               {nextPost.data.title}
             </Link>
           </h3>
-          <p>{body}</p>
-          <hr />
+          {body}
+          
+        </div>
         </div>
       )
     }

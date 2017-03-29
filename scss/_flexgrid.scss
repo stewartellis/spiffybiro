@@ -1,0 +1,64 @@
+.flex-blocks-wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; 
+}
+.flex-block {
+  width: 100%;
+  padding: $line-height * .5;
+  // background-color: #f1f1f1;
+  position: relative;
+  border: solid 1px #efefef;
+  margin: $line-height * .5; 
+  @include for-tablet-landscape-up {
+    flex: 4;
+  }
+}
+  
+
+
+
+// .paddingBlock {
+//   padding: 20px 0;
+// }
+
+// .eqWrap {
+//   display: flex;
+// }
+
+// .eq {
+//   padding: 10px;
+// }
+
+
+// .equalHW {
+//   flex: 1;
+// }
+
+// .equalHMWrap {
+//   justify-content: space-between;
+// }
+
+// .equalHM {
+//   width: 25%;
+// }
+
+// .equalHMRWrap {
+//   justify-content: space-between;
+//   flex-wrap: wrap;
+// }
+
+// .equalHMR {
+//   width: 32%;
+//   margin-bottom: 2%;
+// }
+
+// .equalHMVWrap {
+//   flex-wrap: wrap;
+// }
+
+// .equalHMV {
+//   width: 32%;
+//   margin: 1%;
+// }
+
