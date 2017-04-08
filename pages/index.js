@@ -17,7 +17,7 @@ class BlogIndex extends React.Component {
       get(page, 'file.ext') === 'md' && !include(page.path, '/404') || get(page, 'data.date')
     ))
     return (
-      <div>
+      <div className="home-wrap">
         <Helmet
           title={config.blogTitle}
           meta={[
@@ -25,21 +25,18 @@ class BlogIndex extends React.Component {
             {"name": "keywords", "content": "blog, articles"},
           ]}
         />
-        <div className='std-article'>
         <Bio />
-        <ul>
+        <div className='article-list'>        
           {visiblePages.map((page) => (
-              <li
-                key={page.path}
-                
-              >
-                <Link style={{boxShadow: 'none'}} to={prefixLink(page.path)}>
-                    {get(page, 'data.title', page.path)}
-                </Link>
-              </li>
-          ))}
-        </ul>
-        </div>
+            <Link to={prefixLink(page.path)} className="article-card" key={page.path}>
+              <div>
+                <img src= {page.path + get(page, 'data.heroImage')} />
+                <div className="article-date">{get(page, 'data.date', page.path)}</div>
+                {get(page, 'data.title', page.path)}
+              </div>
+            </Link>
+          ))}        
+        </div>        
       </div>
     )
   }

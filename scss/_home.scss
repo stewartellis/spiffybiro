@@ -1,0 +1,27 @@
+.home-wrap{
+  background-color: #f4f7f6;
+}
+.article-list {
+  max-width: 30em;
+  margin-left: auto; 
+  margin-right: auto;
+  padding-left: $gutter;
+  padding-right: $gutter;
+  padding-top: $gutter * 2;
+  padding-bottom: $gutter * 2;
+}
+.article-card{
+  width: 100%;
+  padding: $line-height * .5;
+  background-color: #fff;
+  border: solid 1px #efefef;
+  margin: $line-height * .5;
+  display:block;
+
+}
+.article-date{
+  font-size:0.833em;
+  font-family: $mono;
+  //line-height: $line-height;
+  
+}

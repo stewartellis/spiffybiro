@@ -6,13 +6,18 @@
 .flex-block {
   width: 100%;
   padding: $line-height * .5;
-  // background-color: #f1f1f1;
+  background-color: #fff;
   position: relative;
   border: solid 1px #efefef;
   margin: $line-height * .5; 
+
   @include for-tablet-landscape-up {
     flex: 4;
   }
+   img {
+     width:100%;
+   }
+  
 }
   
 

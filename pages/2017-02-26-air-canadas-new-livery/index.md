@@ -10,7 +10,7 @@ articleBody: ""
 <div class="std-article">
 To many Canadians Air Canada is the company they love to hate. They lament the service, complain about delays, whinge about the cabin crew and heap scorn on the entire outfit. The rants are always accompanied by stories detailing some apparently traumatic mishap and end with a pronouncement by the victim that they will never fly the airline again - a tall order if you live here and want to travel the world. Air Canada is after all the country's only true international airline. That said, it’s unique status does not endear it to many Canadians. For many, hating Air Canada is as much a national pastime as hating Toronto and it’s mayor who once called in the army to shovel some snow.
 
-The other side of the coin is of course quite different. Air Canada maintains a page on it’s site with no small amount of awards and accolades that’s it won over the last 25 years. It’s continued to offer full service flights to the four corners of the planet, maintained a current fleet and managed to survive in one of the toughest businesses there is. All in all not bad for a business that’s been close to the bust more than once. 
+The other side of the coin is of course quite different. Air Canada maintains a page on it’s site with no small amount of [awards and accolades](https://www.aircanada.com/ca/en/aco/home/about/media/facts-about-air-canada.html) that it's won over the last 25 years. It’s continued to offer full service flights to the four corners of the planet, maintained a current fleet and managed to survive in one of the toughest businesses there is. All in all not bad for a business that’s been on the ropes more than once. 
 
 No doubt mindful of its curious dual-personality Air Canada has decided it’s time for a fresh coat of paint and introduced a new livery for its aircraft. To my eye, they absolutely nailed it. 
 
@@ -30,9 +30,27 @@ The short answer is that there isn’t one. It goes far beyond the look of the p
 If Air Canada is the Toronto of airlines, with nothing good to be said about it, then it stands to reason that WestJet must the Tim Hortons of the skies. To many in the Great White North, getting on a WestJet flight is like sipping a double double while you watch the kids playing hockey at the local area - the perfect articulation of Canuck bliss. They are friendly, totally perfect in every way and better than any other airline anywhere at any time aye. I was once on a WestJet flight where the Captain, with great fanfare announced that it was the airline’s birthday. I naively thought this significant event might yield a free round of drinks for us on board. No dice. Silly me.
 
 Still, you can’t deny WestJet’s success. They have found the special sauce and become a significant force in the marketplace. Their brand is all about the friendly skies at the right price - a good recipe no doubt. That said, they don’t really look like much. It’s fair to say that the visual aspects of WestJet’s brand - logo, livery, etc are nothing special at all. It’s all rather undistinguished and devoid of the friendly personality they embody in the flesh. Maybe it doesn’t really matter what they look like to their customers, as they are totally awesome - like wheeling straight up to the speaker at a Timmy’s drive-through is awesome, dude.
+
+<div class="flex-blocks-wrap full-width">
+  <div class="flex-block">
+    <figure class='align-right'>
+      <img class="" src="oldguard.jpg" alt="Tail">
+      <figcaption>The Old Guard</figcaption>
+    </figure>
+  </div>
+  <div class="flex-block">
+    <figure class='align-center'>
+      <img class="" src="westjet.jpg" alt="Belly">
+      <figcaption>Does this livery make me look fat?</figcaption>
+    </figure>
+  </div>
+</div>
 </div></div>
+
+
+
 <div class="std-article extra-lh">
-If it was only so simple for what used to be Canada’s official flag carrier. Back when Air Canada was a crown corporation (or ward of the state, depending on your view), it was a bit like WestJet’s situation - it didn’t really matter what it looked like. If you were going abroad or flying domestically, you were most likely flying AC. In it’s earliest days it had a total monopoly over the Canadian skies and while that set-up is long gone, it allowed the airline to establish its Flag Carrier status easily - stick a flag on it - job done.
+If it was only so simple for what used to be Canada’s official flag carrier. Back when Air Canada was a crown corporation (or ward of the state depending on your view), it was a bit like WestJet’s situation - it didn’t really matter what it looked like. If you were going abroad or flying domestically, you were most likely flying AC. In it’s earliest days it had a total monopoly over the Canadian skies and while that set-up is long gone, it allowed the airline to establish its Flag Carrier status easily - stick a flag on it - job done.
 
 Over the years that followed, the aviation industry deregulated and true competition came to the marketplace and with it came the full force of branding. Remember Canadian Pacific’s orange and red livery? With true choice in the marketplace, an airline’s visual identity mattered if for no other reason that it may be a contributing factor for putting bums in seats. There was also classy WardAir with it’s real cutlery and tableware. Ah the things you could do before bad guys took all the fun out of flying…
 
@@ -70,7 +88,7 @@ At first glance some people will most likely be underwhelmed. “What’s the bi
 
 </div>
 
-The temptation to go big with aircraft livery must alway be in the background for those who do this design work. A plane is such a big, unique canvas to work with. Who wouldn’t want to design one and go a little berserk. It’s maybe the one canvas where a designer can truly indulge the client’s desire to make the logo bigger and not hate herself for doing it. 
+The temptation to go big with aircraft livery must alway be in the background for those who do this design work. A plane is such a big, unique canvas to work with. Who wouldn’t want to design one and [go a little berserk](http://www.dailymail.co.uk/travel/travel_news/article-3509543/The-world-s-best-plane-liveries-revealed.html). It’s maybe the one canvas where a designer can truly indulge the client’s desire to make the logo bigger and not hate herself for doing it. 
 
 Still it’s not like chucking out a box of business cards if you get the design wrong. A quick google for “cost to paint a plane” comes back with numbers ranging from 50K to 200K. Multiple that by the number of planes in a large fleet (300 in AC’s case) and you’ve got a substantial investment that will come under the scrutiny of customers, shareholders, competitors, plane spotters, art directors and your uncle Phil - who’s flying in from Thunder Bay. The design has to be right and it has to have longevity. It may not have to be as timeless as a great building, but it’s got to longer that a fashion designer’s spring collection. Air Canada’s new livery works because in our visually oversaturated world it’s not screaming for attention but also won’t look dated five or ten years from now.
 </div>

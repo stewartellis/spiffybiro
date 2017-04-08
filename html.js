@@ -31,7 +31,7 @@ module.exports = React.createClass({
           {css}
         </head>
         <body>
-          <div id="react-mount" dangerouslySetInnerHTML={{ __html: body }} />
+          <div id="react-mount" dangerouslySetInnerHTML={{ __html: body }} className="wrap"/>
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
         </body>
       </html>
