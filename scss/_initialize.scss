@@ -20,11 +20,11 @@ body {
       line-height: $tablet-landscape-line-height;
   }    
   @include for-desktop-only {
-      font-size: 1.4em;
+      font-size: 1.37em;
       line-height: $desktop-line-height;
   }
   @include for-big-desktop-up {
-      font-size: 1.4em;
+      font-size: 1.37em;
       line-height: $big-desktop-line-height;
   }
 }
