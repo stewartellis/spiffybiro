@@ -6,6 +6,7 @@ path: "/open-source-this/"
 heroImage: "./jetpack-octocat-airlock.jpg"
 articleTop: "std-article"
 articleBody: "std-article"
+cardImage: "./card.jpg"
 ---
 
 

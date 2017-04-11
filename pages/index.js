@@ -7,6 +7,7 @@ import Helmet from "react-helmet"
 import { config } from 'config'
 import include from 'underscore.string/include'
 import Bio from 'components/Bio'
+import Footer from 'components/Footer'
 
 class BlogIndex extends React.Component {
   render () {
@@ -30,13 +31,14 @@ class BlogIndex extends React.Component {
           {visiblePages.map((page) => (
             <Link to={prefixLink(page.path)} className="article-card" key={page.path}>
               <div>
-                <img src= {page.path + get(page, 'data.heroImage')} />
-                <div className="article-date">{get(page, 'data.date', page.path)}</div>
-                {get(page, 'data.title', page.path)}
+                <img src= {page.path + get(page, 'data.cardImage')} />                  
+                <div className="article-title">{get(page, 'data.title', page.path)}</div>
+                <div className="article-date">{get(page, 'data.date', page.path)}</div>              
               </div>
             </Link>
           ))}        
-        </div>        
+        </div> 
+        <Footer />       
       </div>
     )
   }

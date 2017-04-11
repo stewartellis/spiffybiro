@@ -1,11 +1,12 @@
 ---
 title: Trellick Tower They Ain't...
-date: "2013-03-30T22:12:03.284Z"
+date: "2013-03-30"
 readNext: "/all-that-is-beautiful-in-merida/"
 path: "/trellick-tower-they-aint/"
 heroImage: "./regent-park.jpg"
 articleTop: "std-article"
 articleBody: "std-article"
+cardImage: "./card.jpg"
 ---
 
 John Bentley Mays recently wrote a piece in the Globe, stating the case for saving the John Dickinson designed residential towers in Regent Park. He invited readers to send in proposals on how to save/re-purpose these buildings. I give him credit for raising awareness about preserving architecture - something that Canada has not been good at,. That said, it got me thinking about a similar building across the pond - Trellick Tower.

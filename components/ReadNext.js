@@ -3,7 +3,7 @@ import { Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { prune, include as includes } from 'underscore.string'
 import find from 'lodash/find'
-// import { rhythm, scale } from 'utils/typography'
+import Footer from 'components/Footer'
 
 class ReadNext extends React.Component {
   render () {
@@ -55,7 +55,7 @@ class ReadNext extends React.Component {
             </Link>
           </h3>
           {body}
-          
+          <Footer/>
         </div>
         </div>
       )

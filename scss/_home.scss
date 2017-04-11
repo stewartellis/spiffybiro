@@ -1,5 +1,6 @@
 .home-wrap{
   background-color: #f4f7f6;
+  background-image: url('../images/cards-bg.jpg');
 }
 .article-list {
   max-width: 30em;
@@ -14,14 +15,19 @@
   width: 100%;
   padding: $line-height * .5;
   background-color: #fff;
-  border: solid 1px #efefef;
-  margin: $line-height * .5;
+  border: solid 1px #e4e4e4;
+  margin: $line-height*.5 0;
   display:block;
-
+  box-shadow:none;
 }
 .article-date{
+  font-size:0.694em;
+  // font-family: $mono;
+  line-height: $line-height;  
+  // text-align: right;
+}
+.article-title{
   font-size:0.833em;
-  font-family: $mono;
-  //line-height: $line-height;
+  font-weight: 700;
   
 }

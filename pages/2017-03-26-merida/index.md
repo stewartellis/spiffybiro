@@ -6,6 +6,7 @@ path: "/all-that-is-beautiful-in-merida/"
 heroImage: "./la-negrita.jpg"
 articleTop: "std-article"
 articleBody: ""
+cardImage: "./card.jpg"
 ---
 <div class="std-article">
 

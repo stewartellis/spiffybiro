@@ -6,6 +6,7 @@ path: "/air-canadas-new-livery/"
 heroImage: "./ac-line-art.jpg"
 articleTop: "std-article"
 articleBody: ""
+cardImage: "./card.gif"
 ---
 <div class="std-article">
 To many Canadians Air Canada is the company they love to hate. They lament the service, complain about delays, whinge about the cabin crew and heap scorn on the entire outfit. The rants are always accompanied by stories detailing some apparently traumatic mishap and end with a pronouncement by the victim that they will never fly the airline again - a tall order if you live here and want to travel the world. Air Canada is after all the country's only true international airline. That said, it’s unique status does not endear it to many Canadians. For many, hating Air Canada is as much a national pastime as hating Toronto and it’s mayor who once called in the army to shovel some snow.

@@ -15,9 +15,7 @@
   z-index:50;
   display: flex; 
   align-items: center;    
-  justify-content: center; 
-  
-  
+  justify-content: center;   
 }
 .header-inner{  
   margin-left: auto; 
@@ -25,13 +23,17 @@
   padding-left: $gutter;
   padding-right: $gutter;
   width:100%
-
 }
 .logo{
   box-shadow: none;
   text-decoration: none;
   color: #fff;
   font-family: $sans;  
+}
+.footer {
+  padding:$gutter;
+  text-align:center;
+  font-size: 0.694em;
 }
 .std-article {
   max-width: 40em;
@@ -42,6 +44,7 @@
 }
 .readnext-wrap{
   background-color: #e4e4e4;
+  margin-top:$gutter;
 }
 .readnext-inner{
   max-width: 40em;
@@ -54,7 +57,8 @@
 }
 
 .bio-wrap{
-  background-color: #007a87;
+  background-color: #870038;
+  background-image: url('../images/cards-bg-2.jpg');
 }
 .bio-inner{
   max-width: 30em;
@@ -62,7 +66,17 @@
   margin-right: auto;
   padding-left: $gutter;
   padding-right: $gutter;
-  padding-top: $line-height;
-  padding-bottom: $line-height;
+  padding-top: $gutter*2;
+  padding-bottom: $gutter*2;
   color:#fff;
+  display:flex;
+}
+.bio-pic{
+
+}
+.bio-copy{
+  // font-size:.85em;
+  padding-left:$gutter;
+  line-height: 1.2em;
+  font-family: $mono;
 }
