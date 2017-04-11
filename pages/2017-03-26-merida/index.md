@@ -37,7 +37,7 @@ If you appreciate architecture then this won’t be an issue. Having a leisurely
   <div class="flex-block">
     <figure class=''>
       <img class="" src="cat.jpg" alt="cat">
-      <figcaption>street art (from Tulum)</figcaption>
+      <figcaption>street art (Tulum)</figcaption>
     </figure>
   </div>
   <div class="flex-block">
@@ -103,7 +103,7 @@ The standard question used to be why did the Mayans disappear? The museum’s co
 
 Back in town the local offering of culture continued to reveal itself at a leisurely pace. A nice side effect of the city not being totally beholden to tourism is the food offering. As mentioned up top, it’s not about the standard issue chains designed to appeal to gringo tourists. Local food culture is alive and well in Merida where excellent Yucatan cuisine can be had at very reasonable prices. There is also a decent offering of food from other places including Escargot - a hole in the wall knocking our excellent croissants and other French patisserie standards. There’s also a modern-day hawker market where you can find global street food and bevies and a great vibe to consume them in.
 
-One morning while exploring the town we walked past two local boys in their early teens. One of them had on a t shirt that said FUCK THE RULES in large letters. I missed the photo-op, but was left wondering what they thought it meant. Was it just a bit of teenage rebellion directed at everything teens typically dislike, or were they worldly enough to see the geo-political applicability of this sentiment given the new POTUS’s agenda one country to the north? No such ambiguity existed for the gringo tourist at the bus station sporting the F*CK TRUMP hat. This souvenir was no doubt designed and sold in Mexico, probably made in China and in the possession of an American (probably a Hillary fan still licking her wounds).
+One morning while exploring the town we walked past two local boys in their early teens. One of them had on a t-shirt that said FUCK THE RULES in large letters. I missed the photo-op, but was left wondering what they thought it meant. Was it just a bit of teenage rebellion directed at everything teens typically dislike, or were they worldly enough to see the geo-political applicability of this sentiment given the new POTUS’s agenda one country to the north? No such ambiguity existed for the gringo tourist at the bus station sporting the F*CK TRUMP hat. This souvenir was no doubt designed and sold in Mexico, probably made in China and in the possession of an American (probably a Hillary fan still licking her wounds).
 
 </div>
 
@@ -139,7 +139,7 @@ One morning while exploring the town we walked past two local boys in their earl
 
 Having said all that, the awkward and off-putting politics of the moment did not make their presence known to us by the locals. They have lives to lead and probably can’t be bothered with it all. Good on them. One million less followers for Agent Orange’s twitter account.
 
-The town square as a center of local culture and community is great aspect of live in Merida. Merida is the Cultural City of The Americas for 2017 and the city has a calendar of events to go with it. On saturday night, in front of the beautiful cathedral we took in a free concert of excelleny latin jazz. The show was well attended by locals all ages and the nice breeze and genteel atmosphere made the event that much more enjoyable. We exchanged pleasantries with an older local couple sitting next to us, the language barrier proving to be no barrier to civility and good will.
+The town square as a center of local culture and community is great aspect of live in Merida. Merida is the Cultural City of The Americas for 2017 and the city has a calendar of events to go with it. On saturday night, in front of the beautiful cathedral we took in a free concert of excellent latin jazz. The show was well attended by locals all ages and the nice breeze and genteel atmosphere made the event that much more enjoyable. We exchanged pleasantries with an older local couple sitting next to us, the language barrier proving to be no barrier to civility and good will.
 
 
 
