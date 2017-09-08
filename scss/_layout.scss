@@ -22,13 +22,14 @@
   margin-right: auto;
   padding-left: $gutter;
   padding-right: $gutter;
-  width:100%
+  // width:100%
 }
 .logo{
   box-shadow: none;
   text-decoration: none;
   color: #fff;
-  font-family: $sans;  
+  font-family: $sans; 
+  // font-size: 2rem; 
 }
 .footer {
   padding:$gutter;
