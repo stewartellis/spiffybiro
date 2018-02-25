@@ -2,12 +2,13 @@ p{
   margin: $line-height 0;
 }
 h1{
-  font-size:2.488em;
-  font-family: $display;
-  line-height: $line-height * 2 ;
+  font-size:3.488em;
+  font-family: $sans;
+  line-height: $line-height * 2.2 ;
   margin: $line-height 0;
   font-weight: 700;
-  color: #000;
+  color: #2D2C2C;
+  letter-spacing: -2px;
 }
 h2{
   font-size:2.074em;

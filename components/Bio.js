@@ -14,7 +14,7 @@ class Bio extends React.Component {
           </div>
           <div className="bio-copy">
             <strong>Stewart Ellis</strong><br/>
-            I live in Toronto, work on the web, play bass and write a bit about things that interest me.
+            I live in Toronto, work on the web, play bass and write about things that interest me.
           </div>
      
           

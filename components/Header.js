@@ -9,7 +9,7 @@ class Header extends React.Component {
       <div className="header">
         <div className="header-inner">
           <Link className="logo" to={prefixLink('/')} >
-            -{config.blogTitle}-
+            {config.blogTitle}
           </Link>
         </div>         
       </div>
