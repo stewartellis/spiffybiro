@@ -46,9 +46,22 @@ img {
   right: 50%;
   margin-left: -50vw; 
   margin-right: -50vw;
-  height:500px;
+  height:300px;
   background-size: cover;
   background-position: center;
+
+  @include for-tablet-portait-only {
+    height:400px;
+  }
+  @include for-tablet-landscape-only {
+    height:500px;
+  }    
+  @include for-desktop-up {
+    height:500px;
+  }
+  @include for-big-desktop-up {
+    
+  }
 }
 figure {
   

@@ -19,7 +19,8 @@ class MarkdownWrapper extends React.Component {
         <div 
           className="hero-block"
           style={{ backgroundImage:`url(${post.heroImage})` }}>
-          
+         
+          {/* //<img src={post.heroImage}/> */}
         </div>
       )
     }
