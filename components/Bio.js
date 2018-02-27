@@ -9,7 +9,7 @@ class Bio extends React.Component {
     return (
       <div className='bio-wrap'>
         <div className='bio-inner'>
-          <div className="bio-pic">
+          <div className="bio-pic"> 
             {<img src={prefixLink(profilePic)}  alt={`author ${config.authorName}`} />}
           </div>
           <div className="bio-copy">
