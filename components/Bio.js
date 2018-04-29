@@ -13,7 +13,7 @@ class Bio extends React.Component {
             {<img src={prefixLink(profilePic)}  alt={`author ${config.authorName}`} />}
           </div>
           <div className="bio-copy">
-            <strong>Stewart Ellis</strong><br/>
+            Stewart Ellis<br/>
             I live in Toronto, work on the web, play bass and write about things that interest me.
           </div>
      

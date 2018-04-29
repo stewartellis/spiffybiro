@@ -2,11 +2,11 @@ p{
   margin: $line-height 0;
 }
 h1{
-  font-size:3.488em;
+  font-size:2.488em;
   font-family: $sans;
-  line-height: $line-height * 2.2 ;
+  line-height: $line-height * 2.4 ;
   margin: $line-height 0;
-  font-weight: 700;
+  font-weight: 300;
   color: #2D2C2C;
   letter-spacing: -2px;
 }
@@ -16,6 +16,9 @@ h2{
   margin: $line-height 0;
   font-weight: 400;
   color: #fff;
+}
+h3{
+  font-weight: 700;
 }
 .posted-date{
   font-size:0.694em;
