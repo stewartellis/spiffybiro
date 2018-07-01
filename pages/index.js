@@ -7,6 +7,7 @@ import Helmet from "react-helmet"
 import { config } from 'config'
 import include from 'underscore.string/include'
 import Bio from 'components/Bio'
+import moment from 'moment'
 import Footer from 'components/Footer'
 
 class BlogIndex extends React.Component {
@@ -32,8 +33,8 @@ class BlogIndex extends React.Component {
             <Link to={prefixLink(page.path)} className="article-card" key={page.path}>
               <div>
                 <img src= {page.path + get(page, 'data.cardImage')} />                  
-                <div className="article-title">{get(page, 'data.title', page.path)}</div>
-                <div className="article-date">{get(page, 'data.date', page.path)}</div>              
+                <div className="article-title">{get(page, 'data.title')}</div>
+                <div className="article-date">{moment(get(page, 'data.date')).format('MM/DD/YYYY')}</div>     
               </div>
             </Link>
           ))}        

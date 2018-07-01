@@ -11,7 +11,7 @@ cardImage: "./comp-card.jpg"
 <div class="std-article">
 <em style="font-size:.9rem">The article was submitted to Downbeat Magazine's "Chords and Dischords" in April 2018.</em>
 
-There is a scene in Downton Abbey where upon hearing some jazz of the day, the Dowager Duchess of the family makes the wry quip <em>“are they playing the same tune?”</em>  Although the context is different I find myself wondering the same thing today. For the fictional matriarch of the Grantham clan the joyous spontaneity of early jazz was no doubt foreign to her Victorian constitution. For me listening to some contemporary jazz today it’s more a matter of <em>“are they playing a tune at all?”</em>
+There is a scene in Downton Abbey where upon hearing some jazz of the day, the Dowager Countess of the family makes the wry quip <em>“are they playing the same tune?”</em>  Although the context is different I find myself wondering the same thing today. For the fictional matriarch of the Grantham clan the joyous spontaneity of early jazz was no doubt foreign to her Victorian constitution. For me listening to some contemporary jazz today it’s more a matter of <em>“are they playing a tune at all?”</em>
 
 Before the reader gets enraged, please allow me to explain. Firstly, this is not a blanket indictment of all contemporary jazz or jazz artists. On the contrary, there are lots of excellent newer artists on the scene making great new music. Nor is this a critique of anybody’s playing. What I’m talking about is composition. When I hear new jazz that underwhelms it’s almost always because the tunes are weak or not really tunes at all - more like sonic thingies with improvised bits on top. I'm just not hearing that many good new tunes.
 

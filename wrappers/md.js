@@ -30,7 +30,7 @@ class MarkdownWrapper extends React.Component {
         <div className={`${post.articleTop}`}>
           <h1>{post.title}</h1>
           <div className="posted-date">
-            STEWART ELLIS -  {moment(post.date).format('D/MM/YYYY')}
+            STEWART ELLIS -  {moment(post.date).format('MM/DD/YYYY')}
           </div>
         </div>
         <div className={`${post.articleBody}`} dangerouslySetInnerHTML={{ __html: post.body }}  />
