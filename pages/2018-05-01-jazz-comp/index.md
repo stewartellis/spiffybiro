@@ -9,7 +9,7 @@ articleBody: ""
 cardImage: "./comp-card.jpg"
 ---
 <div class="std-article">
-<em>The article was submitted to Downbeat Magazine's "Chords and Dischords"  section in April 2018 and published in the July 2018 issue. They tell me a T-Shirt is coming my way.</em>
+<em>The article was submitted to Downbeat Magazine's "Chords and Dischords" section in April 2018 and published in the July 2018 issue. They tell me a T-Shirt is coming my way.</em>
 
 There is a scene in Downton Abbey where upon hearing some jazz of the day, the Dowager Countess of the family makes the wry quip <em>“are they playing the same tune?”</em>  Although the context is different I find myself wondering the same thing today. For the fictional matriarch of the Grantham clan the joyous spontaneity of early jazz was no doubt foreign to her Victorian constitution. For me listening to some contemporary jazz today it’s more a matter of <em>“are they playing a tune at all?”</em>
 
